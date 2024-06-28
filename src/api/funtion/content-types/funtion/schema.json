@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "funtions",
+  "info": {
+    "singularName": "funtion",
+    "pluralName": "funtions",
+    "displayName": "Funtion"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
